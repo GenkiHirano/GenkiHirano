@@ -12,4 +12,7 @@
 
 <!-- 3. コントリビュート -->
 ## 📊 Contributions
+
+- 🐍 The snake eats grass
+
 ![snk](https://raw.githubusercontent.com/GenkiHirano/GenkiHirano/output/github-contribution-grid-snake-dark.svg)
