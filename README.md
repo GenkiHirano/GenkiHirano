@@ -3,7 +3,6 @@
 
 - 🧑‍💻 I'm a software developer.
 - 🏛️ I enjoy working on software architecture and SRE.  
-<br>
 
 <!-- 2. スキル -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
