@@ -8,7 +8,8 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=go,python,aws,gcp,k8s,docker,terraform,githubactions" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=go,python,aws,gcp,k8s,docker,terraform,githubactions"/>
 
 <!-- 3. コントリビュート -->
+## 📊 Contributions
 ![snk](https://raw.githubusercontent.com/GenkiHirano/GenkiHirano/output/github-contribution-grid-snake-dark.svg)
