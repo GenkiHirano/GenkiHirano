@@ -2,7 +2,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🧑‍💻 I'm a software developer.
-- 🏛️ I enjoy working on software architecture and SRE.
+- 🏛️ I enjoy working on software architecture and sre.
 
 <!-- 2. スキル -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
